@@ -9,7 +9,7 @@
     <keywords>cordova</keywords>
     <engines>
         <engine name="cordova" version=">=6.4.0"/>
-        <engine name="cordova-android" version=">=6.0.0"/>
+        <engine name="cordova-android" version=">=5.0.0"/>
         <engine name="cordova-ios" version=">=4.3.0"/>
     </engines>
     <js-module src="www/AppMetrica.js" name="AppMetrica">
