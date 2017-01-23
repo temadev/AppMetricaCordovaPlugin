@@ -41,6 +41,6 @@
 
         <header-file src="platform/ios/AppMetricaPlugin.h" />
         <source-file src="platform/ios/AppMetricaPlugin.m" />
-        <framework src="YandexMobileMetrica/Dynamic" type="podspec" spec="~> 2.6.5"/>
+        <framework src="YandexMobileMetrica" type="podspec" spec="2.7.0"/>
     </platform>
 </plugin>
